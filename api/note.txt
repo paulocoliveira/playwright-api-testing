@@ -1,0 +1,4 @@
+Install Node
+Install VSC
+npm init playwright@latest playwright-api-testing
+npm install axios
